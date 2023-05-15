@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;I+am+a+Full+Stack+Web+Developer;Enthusiastic+learner"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="left" src="./assets/Saurabh.jpg" alt="Image" width="330"/>
+<img align="left" src="https://preview.redd.it/prompt-smiling-boy-with-white-and-black-hair-wearing-v0-5olc6gh7vo9a1.png?width=640&crop=smart&auto=webp&s=d5e0bf8945431070e8173f6fa18f164490fcc9fb" alt="Image" width="330"/>
 <hr>
 <div aligh="right">
 <h2> About Me :</h2>
@@ -13,8 +13,8 @@
 💻 I am a Full Stack Web Developer.<br>
 📚 I have a Bachelors degree in Engineering from Mumbai University.<br>
 🔭 I’m currently working on web and android development.<br>
-🌟 Live full stack project : Visit Link...<br>
-🌱 I’m currently learning python and java.<br>
+🌟 Live full stack project : https://vidyavault.netlify.app/<br>
+🌱 I’m currently learning Next.js & Nest.js.<br>
 💬 Ask me about web development (Frontend as well as Backend).<br>
 </div>
 <div align="center">
