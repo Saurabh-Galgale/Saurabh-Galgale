@@ -12,9 +12,8 @@
 
 💻 I am a Full Stack Web Developer.<br>
 📚 I have a Bachelors degree in Engineering from Mumbai University.<br>
-🔭 I’m currently working on web and android development.<br>
+🔭 I’m currently working on web development.<br>
 🌟 Live full stack project : https://vidyavault.netlify.app/<br>
-🌱 I’m currently learning Next.js & Nest.js.<br>
 💬 Ask me about web development (Frontend as well as Backend).<br>
 </div>
 <div align="center">
@@ -29,7 +28,7 @@
    <img src="./assets/mui.png" width="50" height="50" alt="mui" />
    <img src="./assets/node.png" width="50" height="50" alt="node" />
    <img src="./assets/mysql.svg" width="50" height="50" alt="mysql" />
-   <img src="./assets/python.svg" width="50" height="50" alt="python" />
+   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="50" height="50" alt="python" />
    <img src="./assets/git.png" width="50" height="50" alt="git" />
 </p>
 </div>
