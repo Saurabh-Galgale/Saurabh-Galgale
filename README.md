@@ -20,14 +20,16 @@
 <h2> Skills</h2>
 <br>
 <p align="center">
-   <img src="./assets/js2.svg" width="50" height="50" alt="js" />
+   <img src="./assets/js2.svg" width="50" height="45" alt="js" />
    <img src="./assets/html5.svg" width="50" height="50" alt="html" />
    <img src="./assets/css2.svg" width="50" height="50" alt="css" />
    <img src="./assets/react2.svg" width="50" height="50" alt="react" />
+   <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="50" height="45" alt="vue" />
    <img src="./assets/mui.png" width="50" height="50" alt="mui" />
    <img src="./assets/node.png" width="50" height="50" alt="node" />
    <img src="./assets/mysql.svg" width="50" height="50" alt="mysql" />
-   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="50" height="50" alt="python" />
+   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="50" height="45" alt="mongoDB" />
+   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png" width="45" height="45" alt="graphQL" />
    <img src="./assets/git.png" width="50" height="50" alt="git" />
 </p>
 </div>
