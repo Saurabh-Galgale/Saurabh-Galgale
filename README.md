@@ -12,7 +12,7 @@
 📚 I have a Bachelors degree in Engineering from Mumbai University.<br>
 🔭 I’m currently working in the <a href="https://play.foodmarkethub.com/dashboard"><img src="https://img.shields.io/badge/Food Market Hub-F%20%26%20B%20website-%23E7E5A6" alt="Project Badge" align="center"></a> as a software engineer.<br>
 🌟 Project I worked on : https://play.foodmarkethub.com/dashboard<br>
-💬 Ask me about web development (Frontend End as well as Backend End).<br>
+💬 Ask me about web development (Frontend as well as Backend).<br>
   </p>
 </div>
 <div align="center">
