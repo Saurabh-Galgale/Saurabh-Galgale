@@ -11,12 +11,12 @@
   <br/>
   <img src="https://img.shields.io/badge/Ask me about web development (Frontend as well as Backend).-243642?style=for-the-badge&logo=polygon&logoColor=white" alt="Ask me about web development (Frontend as well as Backend)."/>
 </p>
-<div align="center">
+<!-- <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-galgale&theme=tokyo-night&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-galgale&theme=tokyo-night&hide_border=true&area=true&date_range=365" 
     alt="GitHub Contributions Graph" 
   />
-</div>
+</div> -->
 <h2 align="center">Skills</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
