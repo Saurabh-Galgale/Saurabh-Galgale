@@ -42,7 +42,7 @@
 <div align="center">
   <div>
   <a href="https://github.com/Saurabh-Galgale/employee-management-nextjs-frontend">
-      <img src="https://img.shields.io/badge/Employee Management System-F7DF1E?style=for-the-badge" alt="Repo Link">
+      <img src="https://img.shields.io/badge/Employee Management System-1C3E3B?style=for-the-badge" alt="Repo Link">
     </a>
     <a href="https://employee-management-system.vercel.app">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Live Link">
@@ -51,7 +51,7 @@
 
   <div>
     <a href="https://github.com/Saurabh-Galgale/InventoryManager-Frontend">
-      <img src="https://img.shields.io/badge/Inventory Management System-F7DF1E?style=for-the-badge" alt="Inventory Management System Repo">
+      <img src="https://img.shields.io/badge/Inventory Management System-E34F26?style=for-the-badge" alt="Inventory Management System Repo">
     </a>
     <a href="https://inventorymanagerorg.netlify.app/">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Inventory Management System Live Link">
@@ -60,7 +60,7 @@
 
   <div>
     <a href="https://github.com/pesto-students/vidyavault-frontend-team2-harsh">
-      <img src="https://img.shields.io/badge/Vidya Vault-F7DF1E?style=for-the-badge" alt="Vidya Vault Repo">
+      <img src="https://img.shields.io/badge/Vidya Vault-4FC08D?style=for-the-badge" alt="Vidya Vault Repo">
     </a>
     <a href="https://vidyavault.netlify.app/">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Vidya Vault Live Link">
