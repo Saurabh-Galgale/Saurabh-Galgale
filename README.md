@@ -11,12 +11,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Ask me about web development (Frontend as well as Backend).-243642?style=for-the-badge&logo=polygon&logoColor=white" alt="Ask me about web development (Frontend as well as Backend)."/>
 </p>
-<!-- <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-galgale&theme=tokyo-night&hide_border=true&area=true&date_range=365" 
-    alt="GitHub Contributions Graph" 
-  />
-</div> -->
 <h2 align="center">Skills</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -42,7 +36,7 @@
 <div align="center">
   <div>
   <a href="https://github.com/Saurabh-Galgale/employee-management-nextjs-frontend">
-      <img src="https://img.shields.io/badge/Employee Management System-1C3E3B?style=for-the-badge" alt="Repo Link">
+      <img src="https://img.shields.io/badge/Employee Management System-BDE8CA?style=for-the-badge" alt="Repo Link">
     </a>
     <a href="https://employee-management-system.vercel.app">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Live Link">
@@ -51,7 +45,7 @@
 
   <div>
     <a href="https://github.com/Saurabh-Galgale/InventoryManager-Frontend">
-      <img src="https://img.shields.io/badge/Inventory Management System-E34F26?style=for-the-badge" alt="Inventory Management System Repo">
+      <img src="https://img.shields.io/badge/Inventory Management System-9CDBA6?style=for-the-badge" alt="Inventory Management System Repo">
     </a>
     <a href="https://inventorymanagerorg.netlify.app/">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Inventory Management System Live Link">
@@ -60,7 +54,7 @@
 
   <div>
     <a href="https://github.com/pesto-students/vidyavault-frontend-team2-harsh">
-      <img src="https://img.shields.io/badge/Vidya Vault-4FC08D?style=for-the-badge" alt="Vidya Vault Repo">
+      <img src="https://img.shields.io/badge/Vidya Vault-50B498?style=for-the-badge" alt="Vidya Vault Repo">
     </a>
     <a href="https://vidyavault.netlify.app/">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Vidya Vault Live Link">
@@ -69,7 +63,7 @@
 
   <div>
     <a href="https://github.com/Saurabh-Galgale/BriefURL">
-      <img src="https://img.shields.io/badge/Brief URL-F7DF1E?style=for-the-badge" alt="Brief URL Repo">
+      <img src="https://img.shields.io/badge/Brief URL-468585?style=for-the-badge" alt="Brief URL Repo">
     </a>
     <a href="https://briefurl.netlify.app/">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Brief URL Live Link">
@@ -83,6 +77,15 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://saurabhgalgale.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-3E5879?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<hr/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-galgale&theme=tokyo-night&hide_border=true&area=true&date_range=365" 
+    alt="GitHub Contributions Graph" 
+  />
+</div>
