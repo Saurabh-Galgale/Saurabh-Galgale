@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" class="h-10" />
   <img src="https://img.shields.io/badge/-Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white" alt="Element Plus" />
   <br />
+  <img src="https://img.shields.io/badge/-Botpress-474F7A?style=for-the-badge&logo=chatbot&logoColor=white" alt="Botpresss" />
+  <br />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" class="h-10" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
