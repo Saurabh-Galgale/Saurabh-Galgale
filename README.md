@@ -40,7 +40,7 @@
   <a href="https://github.com/Saurabh-Galgale/employee-management-nextjs-frontend">
       <img src="https://img.shields.io/badge/Employee Management System-BDE8CA?style=for-the-badge" alt="Repo Link">
     </a>
-    <a href="https://employee-management-system.vercel.app">
+    <a href="https://employee-management-org.vercel.app/">
       <img src="https://img.shields.io/badge/Live Link-Link-blue?style=for-the-badge" alt="Live Link">
     </a>
   </div>
